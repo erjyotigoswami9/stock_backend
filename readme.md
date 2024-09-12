@@ -39,16 +39,16 @@
                     <li>Like a post can be done by registered user only after login through token passed in headers and user verified in the middleware authorization code as well to adding a like, if user already liked a post and getting a post request again, then nothing will change in the database collection of like and same case handled in the code as well through conditional statements [POST request]</li>
                     <li>Unliking a post if postId exists as per the userId after login , if postId or userId not exists then no modification done and also if user already unliked a post then no change happens in the collection databse of like [DELETE request]</li>
                     <li>Pagination concepts handled through mongoDB query by skip and limit after finding or aggregating the result from the respective collection of database AltDB </li>
-                    <li></li>
+                    <br>
                     <br>
                     <li>PostmanAPI used for CRUD operations with various endpoints on the server and to interact with the databse MongoDB efficiently used locally and using Visual Studio code editor for working with the API's to develop backend application as per industry standards</li>
-                    <li></li>
+                    <br>
                     <br>
                     <li>How to run :-</li>
                     <li>use commands:-</li>
                     <li>npm i , to install all the dependencies for the project</li>
                     <li>npm run dev , to start the server, i use nodemon so that no need to again and again restart server</li>
-                    <li></li>
+                    <br>
                     <br>
                     <li>used port no 8000 to run backend app, so that it would be free for use locally, as react runs on 3000 port no, so to avoid conflict in future, different post numbers are used</li>
                     <li>Password is hashed so that user privacy maintained, as credentials stored in hash format into the database</li>
