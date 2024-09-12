@@ -54,7 +54,7 @@
                     <li>Password is hashed so that user privacy maintained, as credentials stored in hash format into the database</li>
                     <li>JWT secret key is used in .env file and other informations about the project</li>
                     <br>
-                    <li>For details about problem statement , <a href="/backend/assignmentProblem/assignment_problem.docx" target="_blank"> 📃</a></li>
+                    <li>For details about problem statement , <a href="https://github.com/erjyotigoswami9/stock_backend/blob/main/assignmentProblem/assignment_problem.docx" target="_blank"> 📃</a></li>
                     <br>
                     <li>I must appreciate your patience and understanding to read and understand my work</li>
                     <li>Thank you for giving your conscious valuable time and efforts for looking at my project</li>
